@@ -1,0 +1,10 @@
+---
+title: "Proj1"
+output: html_document
+---
+
+```{r setup}
+
+data(ais)
+head(ais)
+```
